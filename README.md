@@ -13,23 +13,15 @@
 
 In this Sass course, you'll learn how to store data in variables, nest CSS, create reusable styles with mixins, add logic and loops to your styles, and more.</p>
         <ul>
-            <li>Create a Redux Store</li>
-            <li>Get State from the Redux Store</li>
-            <li>Define a Redux Action</li>
-            <li>Define an Action Creator</li>
-            <li>Dispatch an Action Event</li>
-            <li>Handle an Action in the Store</li>
-            <li>Use a Switch Statement to Handle Multiple Actions</li>
-            <li>Use const for Action Types</li>
-            <li>Register a Store Listener</li>
-            <li>Combine Multiple Reducers</li>
-            <li>Send Action Data to the Store</li>
-            <li>Use Middleware to Handle Asynchronous Actions</li>
-            <li>Write a Counter with Redux</li>
-            <li>Never Mutate State</li>
-            <li>Use the Spread Operator on Arrays</li>
-            <li>Remove an Item from an Array</li>
-            <li>Copy an Object with Object.assign</li>
+            <li>Store Data with Sass Variables</li>
+            <li>Nest CSS with Sass</li>
+            <li>Create Reusable CSS with Mixins</li>
+            <li>Use @if and @else to Add Logic To Your Styles</li>
+            <li>Use @for to Create a Sass Loop</li>
+            <li>Use @each to Map Over Items in a List</li>
+            <li>Apply a Style Until a Condition is Met with @while</li>
+            <li>Split Your Styles into Smaller Chunks with Partials</li>
+            <li>Extend One Set of CSS Styles to Another Element</li>
           </ul>
     </div>
 </body>
